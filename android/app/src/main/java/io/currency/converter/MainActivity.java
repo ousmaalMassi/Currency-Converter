@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package io.currency.converter;
 
 import com.getcapacitor.BridgeActivity;
 
